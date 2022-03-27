@@ -3,13 +3,13 @@
 
 CRUD flashcard app which I have been working on throughout the bootcamp
 
-Implementation
+**Implementation**
 This is built in C# utilizing Microsoft SQL Server and a DAO pattern
 
-Steps Involved
+**Steps Involved**
 - Created database in Microsoft SQL Server Management Studio which contains each module and unit we've worked on in the bootcamp
 - Built out Models in Visual Studio and implementation of SQL queries through DAO pattern
 - Practiced OOP principles through separating duties of program to multiple classes
 
-Future Steps
+**Future Steps**
 - Build out API controller and client side of the app
