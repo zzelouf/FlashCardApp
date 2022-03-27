@@ -4,6 +4,7 @@
 CRUD flashcard app which I have been working on throughout the bootcamp
 
 **Implementation**
+
 This is built in C# utilizing Microsoft SQL Server and a DAO pattern
 
 **Steps Involved**
